@@ -5,17 +5,19 @@ A aplicação de exemplo é um projeto VB6 que você pode fazer o download e uti
 
 Dentro do pacote da aplicação você encontrará o seguinte conteúdo:
 
--Arquivo NFeAPI.exe: arquivo executável;
+Arquivo testeRest.exe: arquivo executável;
 
--Diretório JSON: diretório onde será salvo os JSON's baixados;
+Diretório json: diretório contendo o JSON de exemplo e que é carregado no projeto para os testes de envio;
 
--Diretório PDF: diretório onde será salvo os PDF's baixados.
+Diretório txt: diretório contendo o TXT de exemplo e que é carregado no projeto para os testes de envio;
 
--Diretório XML: diretório onde será salvo os XML's baixados.
+Diretório PDF: diretório onde será salvo os PDF's dos documentos processados.
 
--Diretório Support: diretório contendo os arquivos dll's utilizados na construção do projeto.
+Diretório XML: diretório onde será salvo os XML's dos documentos processados.
 
-Observações gerais dos exemplos de códigos
+Diretório Support: diretório contendo os arquivos dll's utilizados na construção do projeto.
+
+# Observações gerais dos exemplos de códigos
 
 Os exemplos de código a seguir apresentam apenas as partes fundamentais para comunicação com a API. Os trechos de código utilizados para geração da interface da aplicação e as validações de campos não serão listadas.
 
